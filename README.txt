@@ -6,7 +6,9 @@ First off, you will need to install Git onto your local machine. Follow this lin
 
 To start with, open up either the command prompt or GitBash and configure your Git username and email, which will be used to identify you as the author for each commit. This is done by entering the following: "git config --global user.name "YOUR_USERNAME"" and "git config --global user.email "YOUR_EMAIL@example.com""
 
-Once this has been done, you can clone the repository to your local device by inputting the following command: "git clone https://github.com/LiamColman1/LabRepository.git" which will then copy all of the files from the repository and place them in a folder of the same name. 
+Once this has been done, you can clone the repository to your local device by inputting the following command: "git clone https://github.com/lairdgrouplancaster/LabMain.git" which will then copy all of the files from the repository and place them in a folder of the same name. 
+
+Once cloned, you can navigate to the directory in the command prompt, and then check to see your remote repositories by using: "git remote -v" This will usually show what remote repository it is (usually origin). If this isn't showing, you can manually add these repositories. 
 
 AT THE START OF EACH SESSION: Ensure that you have an up-to-date copy of the repository by using: "git pull origin master"
 
