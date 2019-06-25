@@ -1,3 +1,5 @@
+Screw Terminal:
+
 https://uk.farnell.com/camdenboss/ctb0502-4/terminal-block-wire-to-brd-4pos/dp/2493624
 
 -Rising clamp
@@ -6,19 +8,6 @@ https://uk.farnell.com/camdenboss/ctb0502-4/terminal-block-wire-to-brd-4pos/dp/2
 -Rated current: 10A
 -22-12 AWG solid/stranded cable
 -Price = £5.23 for 10
-
-https://uk.farnell.com/camdenboss/ctb3202-4/terminal-block-wire-to-brd-4pos/dp/2493635
-
--Rising clamp
--20mm long, 12.6mm wide, 12.3mm high, 5mm pitch spacing
--Rated current: 15A
--24-12 AWG cables
--Price = £11.10 for 10
-
-https://uk.farnell.com/metz-connect/31094104/tb-wire-to-board-4pos-26-16awg/dp/2774350
-
--Screw type
--9.4mm wide, 15.8mm high
 
 
 Wires:
