@@ -21,7 +21,7 @@ All of this can also be done in the browser as well, and any additional pieces o
 
 Using a previous version of the repository:
 
-After cloning the repository, look at the recent logs by using the command: "git log --oneline". Select the version of the roll back you want, and then make note of the first 5 characters of the unique number and use: "git checkout (5 characters)". Alternatively, you can use this function based on dates instead, such as if I wanted to revert back 10 days ago, I would input: "git checkout @{10.days.ago}"
+After cloning the repository, look at the recent logs by using the command: "git log --oneline". Select the version of the roll back you want, and then make note of the first 5 characters of the unique number and use: "git checkout (5 characters)". Alternatively, you can use this function based on dates instead, for example if I wanted to revert back 10 days ago, I would input: "git checkout @{10.days.ago}"
 
 
 Current Files: 
