@@ -29,3 +29,8 @@ Current Files:
 .gitignore: This file tells Git what files and folders to ignore when pulling or pushing updates. Currently only ignores the cache folder for Python.
 LICENSE: This is where all licenses for software can be found, and can be added. Currently contains license for GNU
 README: Current file, explains how to get started and what files are contained in this repository
+
+
+Current Folders:
+
+LiamColman: Liam's work uploaded onto Github for storage
