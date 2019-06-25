@@ -1,4 +1,5 @@
 How to use this repository:
+(Note: All commands are to be entered without quotation marks)
 
 First off, you will need to install Git onto your local machine. Follow this link: "https://git-scm.com/" and download the appropriate version. If unsure whether git is installed on your local machine, open a command prompt and type: "git --version" and see whether it is installed. 
 
@@ -17,6 +18,10 @@ You can add changes to the local version of the repository by using the followin
 To push all of the local commits to the remote repository on GitHub, you can use the following command: "git push origin master", where you can replace origin for the name of a different remote repository and master for a different branch. 
 
 All of this can also be done in the browser as well, and any additional pieces of information (Creating branches, forks etc.) can be found online, usually on the GitHub website itself.
+
+Using a previous version of the repository:
+
+After cloning the repository, look at the recent logs by using the command: "git log --oneline". Select the version of the roll back you want, and then make note of the first 5 characters of the unique number and use: "git checkout (5 characters)". Alternatively, you can use this function based on dates instead, such as if I wanted to revert back 10 days ago, I would input: "git checkout @{10.days.ago}"
 
 
 Current Files: 
