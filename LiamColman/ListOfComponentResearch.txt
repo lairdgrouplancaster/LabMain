@@ -1,0 +1,34 @@
+https://uk.farnell.com/camdenboss/ctb0502-4/terminal-block-wire-to-brd-4pos/dp/2493624
+
+-Rising clamp
+-Through hole, and at a right angle
+-20mm long, 10mm high, 8.1mm wide, 5mm pitch spacing
+-Rated current: 10A
+-22-12 AWG solid/stranded cable
+-Price = £5.23 for 10
+
+https://uk.farnell.com/camdenboss/ctb3202-4/terminal-block-wire-to-brd-4pos/dp/2493635
+
+-Rising clamp
+-20mm long, 12.6mm wide, 12.3mm high, 5mm pitch spacing
+-Rated current: 15A
+-24-12 AWG cables
+-Price = £11.10 for 10
+
+https://uk.farnell.com/metz-connect/31094104/tb-wire-to-board-4pos-26-16awg/dp/2774350
+
+-Screw type
+-9.4mm wide, 15.8mm high
+
+
+Wires:
+
+https://uk.farnell.com/pro-power/pp001207/tri-rated-wire-1-5mm2-brown-100m/dp/2501448?st=tri-rated
+
+-16AWG with a 1.5mm^2 cross-section
+-100m reel
+-Can also buy in metres, £0.59 per metre
+-Different colours would be needed, so buying a metre of different colours would be the best idea
+-Peak curent rating of 21A, however need to take into account wire position as this would effect max current rating
+
+Could look at using AWG 18, to reduce the initial cost, at a reduced peak current. 
