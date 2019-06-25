@@ -32,3 +32,12 @@ https://uk.farnell.com/pro-power/pp001207/tri-rated-wire-1-5mm2-brown-100m/dp/25
 -Peak curent rating of 21A, however need to take into account wire position as this would effect max current rating
 
 Could look at using AWG 18, to reduce the initial cost, at a reduced peak current. 
+
+Fuse Holder:
+
+https://uk.farnell.com/multicomp/cfh05/fuse-holder-screw-cap-20x5mm/dp/1437178?MER=bn_level5_4NP_LastViewed_1
+
+
+DIN connector:
+
+https://uk.farnell.com/prehkeytec/71252-050-0800/socket-din-pcb-5pin/dp/1193179
