@@ -27,7 +27,7 @@ https://uk.farnell.com/pro-power/pp001207/tri-rated-wire-1-5mm2-brown-100m/dp/25
 -100m reel
 -Can also buy in metres, £0.59 per metre
 -Different colours would be needed, so buying a metre of different colours would be the best idea
--Peak curent rating of 21A, however need to take into account wire position as this would effect max current rating
+-Peak current rating of 21A, however need to take into account wire position as this would effect max current rating
 
 Could look at using AWG 18, to reduce the initial cost, at a reduced peak current. 
 
@@ -47,7 +47,7 @@ https://www.amazon.co.uk/6-3mm-Crimp-Terminal-Female-Connector/dp/B009PMFDHE
 
 -20 pieces with unknown width
 -Price = £3.93 with free delivery
--Will arrive much quicker
+-Will arrive much quicker than standard delivery for Alibaba (13th July - 23rd July)
 
 
 https://www.aliexpress.com/item/50-Pcs-6-3mm-Crimp-Terminal-Cable-Female-Spade-Connector-Wire-20cm-22AWG-Red/32738959747.html
