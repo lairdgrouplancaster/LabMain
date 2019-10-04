@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -218,14 +218,14 @@ This is the footprint for LT1494CS8 supplied by Linear Technology</description>
 <wire x1="2.60325" y1="2.2035" x2="2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="2.60325" y1="-2.2035" x2="-2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="-2.60325" y1="-2.2035" x2="-2.60325" y2="2.2035" width="0.127" layer="51"/>
-<smd name="8" x="-1.905" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="7" x="-0.635" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="6" x="0.635" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="5" x="1.905" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="1" x="-1.905" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="2" x="-0.635" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="3" x="0.635" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="4" x="1.905" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R270"/>
+<smd name="8" x="-1.905" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="7" x="-0.635" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="6" x="0.635" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="5" x="1.905" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="1" x="-1.905" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="2" x="-0.635" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="3" x="0.635" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="4" x="1.905" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R270"/>
 <circle x="-1.9" y="-0.846" radius="0.1778" width="0.381" layer="21"/>
 <wire x1="-2.954" y1="1.573" x2="2.954" y2="1.573" width="0.2" layer="21"/>
 <wire x1="2.954" y1="1.573" x2="2.954" y2="-1.573" width="0.2" layer="21"/>
@@ -243,14 +243,14 @@ This is the footprint for LT1494CS8 supplied by Linear Technology</description>
 <wire x1="2.60325" y1="2.2035" x2="2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="2.60325" y1="-2.2035" x2="-2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="-2.60325" y1="-2.2035" x2="-2.60325" y2="2.2035" width="0.127" layer="51"/>
-<smd name="8" x="-1.905" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="7" x="-0.635" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="6" x="0.635" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="5" x="1.905" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="1" x="-1.905" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="2" x="-0.635" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="3" x="0.635" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="4" x="1.905" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R270"/>
+<smd name="8" x="-1.905" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="7" x="-0.635" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="6" x="0.635" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="5" x="1.905" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="1" x="-1.905" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="2" x="-0.635" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="3" x="0.635" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="4" x="1.905" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R270"/>
 <circle x="-1.9" y="-0.846" radius="0.1778" width="0.381" layer="21"/>
 <wire x1="-3.054" y1="1.573" x2="3.054" y2="1.573" width="0.2" layer="21"/>
 <wire x1="3.054" y1="1.573" x2="3.054" y2="-1.573" width="0.2" layer="21"/>

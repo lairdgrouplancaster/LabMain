@@ -194,6 +194,28 @@
 <wire x1="26" y1="5" x2="26" y2="0" width="0.6096" layer="42"/>
 <text x="10" y="100" size="1.778" layer="21">Trackside 1</text>
 <text x="22" y="98" size="1.778" layer="22" rot="SMR0">Trackside 2</text>
+<polygon width="0.1524" layer="41">
+<vertex x="17.8" y="24.7"/>
+<vertex x="15.7" y="24.7"/>
+<vertex x="15.7" y="23.3"/>
+<vertex x="15.9" y="23.1"/>
+<vertex x="16.7" y="23.1"/>
+<vertex x="16.9" y="23.1"/>
+<vertex x="17.3" y="22.7"/>
+<vertex x="17.8" y="22.7"/>
+</polygon>
+<polygon width="0.1524" layer="41">
+<vertex x="4.1" y="60.5"/>
+<vertex x="6.7" y="60.5"/>
+<vertex x="7.6" y="61.4"/>
+<vertex x="5.8" y="61.4"/>
+<vertex x="5.7" y="61.5"/>
+<vertex x="5.7" y="62.4"/>
+<vertex x="5.4" y="62.7"/>
+<vertex x="5.3" y="62.7"/>
+<vertex x="4.2" y="62.7"/>
+<vertex x="4.1" y="62.6"/>
+</polygon>
 </plain>
 <libraries>
 <library name="con-wago-500" urn="urn:adsk.eagle:library:195">
@@ -293,14 +315,14 @@ This is the footprint for LT1494CS8 supplied by Linear Technology</description>
 <wire x1="2.60325" y1="2.2035" x2="2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="2.60325" y1="-2.2035" x2="-2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="-2.60325" y1="-2.2035" x2="-2.60325" y2="2.2035" width="0.127" layer="51"/>
-<smd name="8" x="-1.905" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="7" x="-0.635" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="6" x="0.635" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="5" x="1.905" y="2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="1" x="-1.905" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="2" x="-0.635" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="3" x="0.635" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R90"/>
-<smd name="4" x="1.905" y="-2.578" dx="1.2" dy="0.75" layer="1" rot="R270"/>
+<smd name="8" x="-1.905" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="7" x="-0.635" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="6" x="0.635" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="5" x="1.905" y="2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="1" x="-1.905" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="2" x="-0.635" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="3" x="0.635" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="4" x="1.905" y="-2.578" dx="1.6" dy="0.8" layer="1" rot="R270"/>
 <circle x="-1.9" y="-0.846" radius="0.1778" width="0.381" layer="21"/>
 <wire x1="-2.954" y1="1.573" x2="2.954" y2="1.573" width="0.2" layer="21"/>
 <wire x1="2.954" y1="1.573" x2="2.954" y2="-1.573" width="0.2" layer="21"/>
@@ -318,14 +340,14 @@ This is the footprint for LT1494CS8 supplied by Linear Technology</description>
 <wire x1="2.60325" y1="2.2035" x2="2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="2.60325" y1="-2.2035" x2="-2.60325" y2="-2.2035" width="0.127" layer="51"/>
 <wire x1="-2.60325" y1="-2.2035" x2="-2.60325" y2="2.2035" width="0.127" layer="51"/>
-<smd name="8" x="-1.905" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="7" x="-0.635" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="6" x="0.635" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="5" x="1.905" y="2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="1" x="-1.905" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="2" x="-0.635" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="3" x="0.635" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R90"/>
-<smd name="4" x="1.905" y="-2.76" dx="1.52" dy="0.6" layer="1" rot="R270"/>
+<smd name="8" x="-1.905" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="7" x="-0.635" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="6" x="0.635" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="5" x="1.905" y="2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="1" x="-1.905" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="2" x="-0.635" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="3" x="0.635" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R90"/>
+<smd name="4" x="1.905" y="-2.76" dx="1.6" dy="0.8" layer="1" rot="R270"/>
 <circle x="-1.9" y="-0.846" radius="0.1778" width="0.381" layer="21"/>
 <wire x1="-3.054" y1="1.573" x2="3.054" y2="1.573" width="0.2" layer="21"/>
 <wire x1="3.054" y1="1.573" x2="3.054" y2="-1.573" width="0.2" layer="21"/>
