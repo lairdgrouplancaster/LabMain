@@ -83,7 +83,7 @@
 <hole x="13.875" y="25.84" drill="3"/>
 <hole x="17.875" y="35.74" drill="3"/>
 <hole x="13.875" y="56.84" drill="3"/>
-<text x="27.94" y="2" size="3.81" layer="1" font="vector">V.2</text>
+<text x="27.94" y="2" size="3.81" layer="1" font="vector" ratio="15">V.2</text>
 </plain>
 <libraries>
 <library name="con-hirschmann" urn="urn:adsk.eagle:library:153">

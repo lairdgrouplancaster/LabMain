@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mm"/>
+<grid distance="50" unitdist="mil" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.0127" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -79,10 +79,10 @@
 <wire x1="36.83" y1="0.762" x2="0.762" y2="0.762" width="0.15" layer="20"/>
 <text x="29.972" y="41.529" size="1.778" layer="21">+6V</text>
 <text x="30.226" y="18.923" size="1.778" layer="21">-6V</text>
-<hole x="17.875" y="4.34" drill="3"/>
-<hole x="13.875" y="25.84" drill="3"/>
-<hole x="17.875" y="35.74" drill="3"/>
-<hole x="13.875" y="56.84" drill="3"/>
+<hole x="17.615" y="4.267" drill="3"/>
+<hole x="14.139" y="26.203" drill="3"/>
+<hole x="17.615" y="35.245" drill="3"/>
+<hole x="14.139" y="57.191" drill="3"/>
 <text x="27.94" y="2" size="3.81" layer="1" font="vector" ratio="15">V.2</text>
 </plain>
 <libraries>
