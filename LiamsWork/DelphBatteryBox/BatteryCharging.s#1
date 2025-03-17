@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.4.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -453,7 +453,7 @@ Grid 5.00 mm&lt;p&gt;
 <busses>
 </busses>
 <nets>
-<net name="0V" class="0">
+<net name="-0V" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="3"/>
 <wire x1="72.5" y1="210.16" x2="72.5" y2="217.5" width="0.1524" layer="91"/>
@@ -468,23 +468,6 @@ Grid 5.00 mm&lt;p&gt;
 <pinref part="X3" gate="-2" pin="KL"/>
 <wire x1="116.84" y1="177.8" x2="106.68" y2="177.8" width="0.1524" layer="91"/>
 <label x="109.22" y="177.8" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="X1" gate="G$1" pin="4"/>
-<wire x1="69.96" y1="187.3" x2="70" y2="187.3" width="0.1524" layer="91"/>
-<wire x1="70" y1="187.3" x2="70" y2="180" width="0.1524" layer="91"/>
-<label x="65" y="182.5" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="X2" gate="G$1" pin="4"/>
-<wire x1="69.96" y1="142.3" x2="70" y2="142.3" width="0.1524" layer="91"/>
-<wire x1="70" y1="142.3" x2="70" y2="135" width="0.1524" layer="91"/>
-<label x="65" y="137.5" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="X3" gate="-3" pin="KL"/>
-<wire x1="116.84" y1="182.88" x2="106.68" y2="182.88" width="0.1524" layer="91"/>
-<label x="109.22" y="182.88" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="+6V" class="0">
@@ -504,6 +487,25 @@ Grid 5.00 mm&lt;p&gt;
 <pinref part="X3" gate="-4" pin="KL"/>
 <wire x1="116.84" y1="187.96" x2="106.68" y2="187.96" width="0.1524" layer="91"/>
 <label x="109.22" y="187.96" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="+0V" class="0">
+<segment>
+<pinref part="X1" gate="G$1" pin="4"/>
+<wire x1="69.96" y1="187.3" x2="70" y2="187.3" width="0.1524" layer="91"/>
+<wire x1="70" y1="187.3" x2="70" y2="180" width="0.1524" layer="91"/>
+<label x="65" y="182.5" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X2" gate="G$1" pin="4"/>
+<wire x1="69.96" y1="142.3" x2="70" y2="142.3" width="0.1524" layer="91"/>
+<wire x1="70" y1="142.3" x2="70" y2="135" width="0.1524" layer="91"/>
+<label x="65" y="137.5" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X3" gate="-3" pin="KL"/>
+<wire x1="116.84" y1="182.88" x2="106.68" y2="182.88" width="0.1524" layer="91"/>
+<label x="109.22" y="182.88" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="-6V" class="0">
